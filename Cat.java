@@ -1,5 +1,4 @@
 // Author:          Ciaran Whyte
-// Student Number:  C00273862
 
 public class Cat extends Animal {
     // Assigning values to the variables.
