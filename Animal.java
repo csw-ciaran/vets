@@ -1,5 +1,4 @@
 // Author:          Ciaran Whyte
-// Student Number:  C00273862
 
 public class Animal {
     // Variables.
