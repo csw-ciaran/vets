@@ -1,5 +1,4 @@
 // Author:          Ciaran Whyte
-// Student Number:  C00273862
 
 public class AnimalTest {
     public static void main(String args[]) {
